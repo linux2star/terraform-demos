@@ -1,4 +1,4 @@
 resource "google_storage_bucket" "demobucket" {
-  name          = var.bucket_name
+  name          = "linuxdady_demo_bucket_123"
   location      = "US"
 }
